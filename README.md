@@ -1,3 +1,3 @@
 Hey there! I'm Vishal Ola.
 Undergrad at IIITA.
-Interested in Coding and Web Development.
+Interested in Competitive Programming and Web Development.
